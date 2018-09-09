@@ -1,0 +1,5 @@
+Create Database DBExample1
+
+Insert into DBExample1 Id, Fname, Lname, Department, DepartmentID
+
+ 
